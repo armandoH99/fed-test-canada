@@ -62,3 +62,7 @@ $ npm start
 
 Otherwise, simply open the `index.html` file located within the `src` folder
 in your favourite web browser.
+
+## I have change the class in the main.css to .layout
+
+Also fix some errors in the main.js file template.
